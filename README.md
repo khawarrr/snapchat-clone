@@ -2,10 +2,6 @@
 
 > A camera featured chat application created using react js & material-ui.
 
-<p align="center">
-    <img width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRws7yUwENFSPF9-csO1_Vt6VSo6zpRImDI7A&usqp=CAU" alt="snapchat" />
-</p>
-
 ## About the App
 > Snapchat is a U.S based social media app which belongs to Snap Inc.
 > One of the principal features of Snapchat is that pictures and messages are usually only available for a short time before they become inaccessible to their recipients.
