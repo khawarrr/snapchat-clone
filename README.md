@@ -1,6 +1,7 @@
 # Snapchat Clone
 
 > A camera featured chat application created using react js & material-ui.
+> [Click here](https://snapchat-clone-1388b.web.app/) to go to Snapchat clone.
 
 ## About the App
 > Snapchat is a U.S based social media app which belongs to Snap Inc.
