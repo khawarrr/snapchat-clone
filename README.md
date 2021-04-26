@@ -8,11 +8,7 @@
 
 [Click here](https://snapchat-clone-1388b.web.app/) to go to Snapchat clone.
 
-## Stock
 
-- [Iphone mobile silhouette](https://pngkey.com/png/full/859-8598072_picture-freeuse-library-silhouette-mobile-at-getdrawings-cell.png)
-- [snapchat icon](https://lakeridgenewsonline.com/wp-content/uploads/2020/04/snapchat.jpg)
-- [snapchat logo](https://scx2.b-cdn.net/gfx/news/2017/1-snapchat.jpg)
 
 ## Initializing react app & Setup firebase.
 
